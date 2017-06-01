@@ -4,6 +4,7 @@ body {
 
 .green-background {
   background-color: green;
+  color: white;
 }
 
 .yellow-background {
@@ -12,4 +13,9 @@ body {
 
 .red-background {
   background-color: red;
+  color: white;
+}
+
+.white-background {
+  background-color: white;
 }

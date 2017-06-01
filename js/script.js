@@ -13,4 +13,9 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("red-background");
   });
+
+  $("button#white").click(function()  {
+    $("body").removeClass();
+    $("body").addClass("white-background");
+  });
 });
